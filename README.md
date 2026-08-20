@@ -9,7 +9,7 @@
 
 This is my **primary cybersecurity learning portfolio** — a structured collection of labs, notes, and practical exercises built during my B.Tech in Cybersecurity. It covers network scanning, vulnerability analysis, and CEH exam preparation with real tool usage.
 
----
+--- 
 
 ## 📁 Repository Structure
 
